@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878833032995",
+    "firebase_url": "https://fcmdemo-d2cad.firebaseio.com",
+    "project_id": "fcmdemo-d2cad",
+    "storage_bucket": "fcmdemo-d2cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878833032995:android:dfb688c9a5708ab0",
+        "android_client_info": {
+          "package_name": "com.example.givemepass.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878833032995-b8tis9vgvn5oh7nv6sf4sdjvbfkt3eh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.givemepass.fcmdemo",
+            "certificate_hash": "ff6f3d4ad235bf8505fa7728c926cbdb5d92f9de"
+          }
+        },
+        {
+          "client_id": "878833032995-dgjc2e8hblrbofg8e3tqvfepflv5kaa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSBODo95xKsVFnzk_Zkl1UQsG3srxDEsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878833032995-dgjc2e8hblrbofg8e3tqvfepflv5kaa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
